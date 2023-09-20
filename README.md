@@ -12,7 +12,7 @@ L'écosysteme Mille-Feuilles est une suite logicielle avec une forte emphase sur
 
 # Les fondements scientifiques du projet
 
-![](Figures/Diapositive2.png)
+![](Figures/Diapositive2.PNG)
 
 
 
