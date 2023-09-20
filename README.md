@@ -8,7 +8,7 @@ L'écosysteme Mille-Feuilles est une suite logicielle avec une forte emphase sur
 
 - Mille-Feuilles predicteur (en construction)
 
-- Le service Mille-Feuille, une déclinaison privée centrée des projets internes de l'IHU
+- Le service Mille-Feuille, une déclinaison privée centrée sur les projets internes de l'IHU
 
 # Les fondements scientifiques du projet
 
